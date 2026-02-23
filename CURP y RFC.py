@@ -2,7 +2,7 @@
 #Grupo: 2ºJ
 #Fecha: 21/2/26
 #Programa: Generador de CURP y RFC
-#Numero de practica: 2
+#Numero de practica: práctica 2
 
 a=input("Escribe tu nombre completo: ").upper()
 b=input("Bien!, ahora escribe tu fecha de nacimiento (solo 6 digitos A/M/D): ")
